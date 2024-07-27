@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <ul>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mein Portfolio</h1>
+    </header>
+    <nav>
+            <li><a href="#about">Über mich</a></li>
+            <li><a href="#skills">Fähigkeiten</a></li>
+            <li><a href="#knowledge">Kenntnisse</a></li>
+            <li><a href="#certificates">Zertifikate</a></li>
+            <li><a href="#qualities">Charakterliche Qualitäten</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>Über mich</h2>
+        <p>Hier ist eine kurze Beschreibung über mich.</p>
+    </section>
+    <section id="skills">
+        <h2>Fähigkeiten</h2>
+        <ul>
+            <li>Programmierung (Python, JavaScript, etc.)</li>
+            <li>Webentwicklung (HTML, CSS, etc.)</li>
+            <li>Projektmanagement</li>
+        </ul>
+    </section>
+    <section id="knowledge">
+        <h2>Kenntnisse</h2>
+        <ul>
+            <li>Datenanalyse</li>
+            <li>Maschinelles Lernen</li>
+            <li>Softwareentwicklung</li>
+        </ul>
+    </section>
+    <section id="certificates">
+        <h2>Zertifikate</h2>
+        <ul>
+            <li>Zertifikat A</li>
+            <li>Zertifikat B</li>
+            <li>Zertifikat C</li>
+        </ul>
+    </section>
+    <section id="qualities">
+        <h2>Charakterliche Qualitäten</h2>
+        <ul>
+            <li>Zuverlässigkeit</li>
+            <li>Teamfähigkeit</li>
+            <li>Engagement</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Kontakt: deine-email@example.com</p>
+    </footer>
+</body>
+</html>
